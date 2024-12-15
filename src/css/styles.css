@@ -6933,6 +6933,14 @@ textarea.form-control-lg {
   z-index: 1030;
 }
 
+.cms .fixed-top {
+    position: fixed;
+    top: 50px;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
 .fixed-bottom {
   position: fixed;
   right: 0;
